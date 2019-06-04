@@ -1,5 +1,7 @@
 # klassefest
 
+Klassefest med Lille hjelper
+
 ## Project setup
 ```
 yarn install

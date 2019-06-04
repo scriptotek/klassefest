@@ -1,0 +1,120 @@
+{
+	"id": "991305681474702201",
+	"isbns": [
+		"9781118423288",
+		"9781118423462"
+	],
+	"title": "Understanding solids : the science of materials",
+	"publisher": "Wiley",
+	"pub_year": "2013",
+	"edition": null,
+	"creators": [
+		{
+			"type": "100",
+			"name": "Tilley, Richard J.D..",
+			"id": "(NO-TrBIB)90055382",
+			"relationship": "aut"
+		}
+	],
+	"subjects": [
+		{
+			"type": "650",
+			"vocabulary": "tekord",
+			"term": "Faste stoffers fysikk"
+		},
+		{
+			"type": "653",
+			"term": "materialer"
+		},
+		{
+			"type": "653",
+			"term": "faste"
+		},
+		{
+			"type": "653",
+			"term": "stoffers"
+		},
+		{
+			"type": "653",
+			"term": "fysikk"
+		},
+		{
+			"type": "653",
+			"term": "faststoffysikk"
+		}
+	],
+	"classifications": [
+		{
+			"scheme": "udc",
+			"number": "538.9"
+		},
+		{
+			"scheme": "ddc",
+			"number": "530.41",
+			"edition": "23"
+		}
+	],
+	"toc": null,
+	"summary": null,
+	"part_of": null,
+	"link": "https:\/\/ub-lsm.uio.no\/alma\/records\/991305681474702201",
+	"cover": "http:\/\/innhold.bibsys.no\/bilde\/forside\/?size=stor&id=9781118423288.jpg",
+	"description": "http:\/\/content.bibsys.no\/content\/?type=descr_publ_brief&isbn=1118423283",
+	"fulltext": null,
+	"holdings": [
+		{
+			"id": "22158290910002203",
+			"institution": "47BIBSYS_NTNU_UB",
+			"library": "1160103",
+			"library_name": "Realfagbiblioteket",
+			"location": "REAL Pensum",
+			"callcode": "TMT4245 2. utg.",
+			"availability": "available",
+			"total_items": "1",
+			"unavailable_items": "0"
+		},
+		{
+			"id": "22158290890002203",
+			"institution": "47BIBSYS_NTNU_UB",
+			"library": "1160103",
+			"library_name": "Realfagbiblioteket",
+			"location": "REAL",
+			"callcode": "538.9 T46u 2. utg.",
+			"availability": "unavailable",
+			"total_items": "1",
+			"unavailable_items": "1"
+		},
+		{
+			"id": "22119777160002204",
+			"institution": "47BIBSYS_UBO",
+			"library": "1030310",
+			"library_name": "UiO Realfagsbiblioteket",
+			"location": "UREAL Pensum",
+			"callcode": "530.41 Til",
+			"availability": "available",
+			"total_items": "2",
+			"unavailable_items": "1"
+		},
+		{
+			"id": "2277987020002207",
+			"institution": "47BIBSYS_UBB",
+			"library": "1120104",
+			"library_name": "Bibliotek for matematisk-naturvitenskapelige fag",
+			"location": "UBBRB",
+			"callcode": "530.41 Til",
+			"availability": "available",
+			"total_items": "1",
+			"unavailable_items": "0"
+		}
+	],
+	"portfolios": [
+
+	],
+	"representations": [
+
+	],
+	"timing": {
+		"alma_bib_request": 2.1824538707733154,
+		"processing": 0.05843400955200195
+	}
+}
